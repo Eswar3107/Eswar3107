@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eswar
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python
-- 📫 How to reach me ...[Gmail](eshwarnaidu007@gmail.com)
+- 👀 I’m interested in ...coding,competitive programming
+- 🌱 I’m currently learning ...DSA
+-
+- 📫 How to reach me ...[Gmail](eswarsai.bonala@gmail.com)
